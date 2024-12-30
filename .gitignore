@@ -1,0 +1,7 @@
+# Fichiers générés par Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+.vs/
+.vscode/
